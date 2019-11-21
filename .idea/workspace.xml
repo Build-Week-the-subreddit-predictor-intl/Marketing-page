@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95945db3-8c35-4e6e-81fc-2f1a139f11c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contactPro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contactPro.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contactPro.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contentS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contentS.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/contentS.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/footer.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/footer.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index1.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index1.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mixins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mixins.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nav.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nav.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/AppScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/RLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Upvotes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/placeholder2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plasceholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/bethany_richardson.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/emmet_boudreau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/eric_smith.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/mark_halls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/melqui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/rechany_nguon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/samantha_finley.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/sergei.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profiles/spencer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TwUPu1aPjNAbHI4OQ9r16uASCV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/nodejs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Spencer Elggren\WebstormProjects\UI\images\profiles" />
+      <recent name="C:\Users\Spencer Elggren\WebstormProjects\UI\images" />
+      <recent name="C:\Users\Spencer Elggren\WebstormProjects\UI\css" />
+      <recent name="C:\Users\Spencer Elggren\WebstormProjects\UI" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95945db3-8c35-4e6e-81fc-2f1a139f11c6" name="Default Changelist" comment="" />
+      <created>1574370630891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574370630891</updated>
+      <workItem from="1574370634959" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
